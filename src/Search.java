@@ -14,7 +14,7 @@ public class Search {
 	private Path current;		// Current path that is being processed
 	
 	private int shortest = -1;		// Value of the shortest path
-	protected List<Path> short_paths = new LinkedList<Path>();	// All the shortest pats that have the same value(distance)
+	protected List<Path> short_paths = new LinkedList<Path>();	// All the shortest paths that have the same value(distance)
 
 	private Graph graph;    // Input map
 
