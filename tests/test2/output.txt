@@ -1,0 +1,47 @@
+{
+"read_time_in_ms": 96,
+"search_time_in_ms": 13,
+"total_time_in_ms": 109,
+"paths": [
+{
+"points": [
+		{
+		"row":1, 
+		"col":C
+		},
+		{
+		"row":2, 
+		"col":C
+		},
+		{
+		"row":3, 
+		"col":C
+		},
+		{
+		"row":3, 
+		"col":B
+		},
+		{
+		"row":4, 
+		"col":B
+		},
+		{
+		"row":5, 
+		"col":B
+		},
+		{
+		"row":5, 
+		"col":C
+		},
+		{
+		"row":5, 
+		"col":D
+		},
+		{
+		"row":5, 
+		"col":E
+		}
+	]
+}
+]
+}
