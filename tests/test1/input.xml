@@ -3,22 +3,22 @@
       <cell row="1" col= "A" />
       <cell row="1" col= "B" />
       <cell row="1" col= "C" />
-	  <cell row="1" col= "E" />
-	  <cell row="1" col= "F" />
+      <cell row="1" col= "E" />
+      <cell row="1" col= "F" />
       <cell row="2" col= "A" />
-	  <cell row="2" col= "B" />
-	  <cell row="2" col= "C" />
-	  <cell row="2" col= "D" />
-	  <cell row="2" col= "E" />
-	  <cell row="2" col= "F" />
+      <cell row="2" col= "B" />
+      <cell row="2" col= "C" />
+      <cell row="2" col= "D" />
+      <cell row="2" col= "E" />
+      <cell row="2" col= "F" />
       <cell row="3" col= "A" />
       <cell row="3" col= "B" />
       <cell row="3" col= "D" />
       <cell row="3" col= "E" />
-	  <cell row="3" col= "F" />	  
+      <cell row="3" col= "F" />	  
       <cell row="4" col= "A" />
-	  <cell row="4" col= "B" />
-	  <cell row="4" col= "C" />
+      <cell row="4" col= "B" />
+      <cell row="4" col= "C" />
 	  <cell row="4" col= "D" />
 	  <cell row="4" col= "E" />
 	  <cell row="4" col= "F" />
